@@ -1,0 +1,14 @@
+c:\Users\Usuario\Desktop\AutoMapper\ValueTransform\bin\Debug\netcoreapp3.0\ValueTransform.exe
+C:\Users\Usuario\Desktop\AutoMapper\ValueTransform\bin\Debug\netcoreapp3.0\ValueTransform.deps.json
+C:\Users\Usuario\Desktop\AutoMapper\ValueTransform\bin\Debug\netcoreapp3.0\ValueTransform.runtimeconfig.json
+C:\Users\Usuario\Desktop\AutoMapper\ValueTransform\bin\Debug\netcoreapp3.0\ValueTransform.runtimeconfig.dev.json
+c:\Users\Usuario\Desktop\AutoMapper\ValueTransform\bin\Debug\netcoreapp3.0\ValueTransform.dll
+c:\Users\Usuario\Desktop\AutoMapper\ValueTransform\bin\Debug\netcoreapp3.0\ValueTransform.pdb
+c:\Users\Usuario\Desktop\AutoMapper\ValueTransform\bin\Debug\netcoreapp3.0\AutoMapper.dll
+c:\Users\Usuario\Desktop\AutoMapper\ValueTransform\obj\Debug\netcoreapp3.0\ValueTransform.csprojAssemblyReference.cache
+c:\Users\Usuario\Desktop\AutoMapper\ValueTransform\obj\Debug\netcoreapp3.0\ValueTransform.csproj.CoreCompileInputs.cache
+c:\Users\Usuario\Desktop\AutoMapper\ValueTransform\obj\Debug\netcoreapp3.0\ValueTransform.AssemblyInfoInputs.cache
+c:\Users\Usuario\Desktop\AutoMapper\ValueTransform\obj\Debug\netcoreapp3.0\ValueTransform.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AutoMapper\ValueTransform\obj\Debug\netcoreapp3.0\ValueTransform.csproj.CopyComplete
+c:\Users\Usuario\Desktop\AutoMapper\ValueTransform\obj\Debug\netcoreapp3.0\ValueTransform.dll
+c:\Users\Usuario\Desktop\AutoMapper\ValueTransform\obj\Debug\netcoreapp3.0\ValueTransform.pdb

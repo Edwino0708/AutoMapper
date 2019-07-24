@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\AutoMapper\Profiles\bin\Debug\netcoreapp3.0\Profiles.exe
+C:\Users\Usuario\Desktop\AutoMapper\Profiles\bin\Debug\netcoreapp3.0\Profiles.deps.json
+C:\Users\Usuario\Desktop\AutoMapper\Profiles\bin\Debug\netcoreapp3.0\Profiles.runtimeconfig.json
+C:\Users\Usuario\Desktop\AutoMapper\Profiles\bin\Debug\netcoreapp3.0\Profiles.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\AutoMapper\Profiles\bin\Debug\netcoreapp3.0\Profiles.dll
+C:\Users\Usuario\Desktop\AutoMapper\Profiles\bin\Debug\netcoreapp3.0\Profiles.pdb
+C:\Users\Usuario\Desktop\AutoMapper\Profiles\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\Usuario\Desktop\AutoMapper\Profiles\obj\Debug\netcoreapp3.0\Profiles.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\AutoMapper\Profiles\obj\Debug\netcoreapp3.0\Profiles.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AutoMapper\Profiles\obj\Debug\netcoreapp3.0\Profiles.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\AutoMapper\Profiles\obj\Debug\netcoreapp3.0\Profiles.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AutoMapper\Profiles\obj\Debug\netcoreapp3.0\Profiles.csproj.CopyComplete
+C:\Users\Usuario\Desktop\AutoMapper\Profiles\obj\Debug\netcoreapp3.0\Profiles.dll
+C:\Users\Usuario\Desktop\AutoMapper\Profiles\obj\Debug\netcoreapp3.0\Profiles.pdb

@@ -1,0 +1,14 @@
+c:\Users\Usuario\Desktop\AutoMapper\CustomValueResolver\obj\Debug\netcoreapp3.0\CustomValueResolver.csprojAssemblyReference.cache
+c:\Users\Usuario\Desktop\AutoMapper\CustomValueResolver\obj\Debug\netcoreapp3.0\CustomValueResolver.csproj.CoreCompileInputs.cache
+c:\Users\Usuario\Desktop\AutoMapper\CustomValueResolver\obj\Debug\netcoreapp3.0\CustomValueResolver.AssemblyInfoInputs.cache
+c:\Users\Usuario\Desktop\AutoMapper\CustomValueResolver\obj\Debug\netcoreapp3.0\CustomValueResolver.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AutoMapper\CustomValueResolver\bin\Debug\netcoreapp3.0\CustomValueResolver.exe
+C:\Users\Usuario\Desktop\AutoMapper\CustomValueResolver\bin\Debug\netcoreapp3.0\CustomValueResolver.deps.json
+C:\Users\Usuario\Desktop\AutoMapper\CustomValueResolver\bin\Debug\netcoreapp3.0\CustomValueResolver.runtimeconfig.json
+C:\Users\Usuario\Desktop\AutoMapper\CustomValueResolver\bin\Debug\netcoreapp3.0\CustomValueResolver.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\AutoMapper\CustomValueResolver\bin\Debug\netcoreapp3.0\CustomValueResolver.dll
+C:\Users\Usuario\Desktop\AutoMapper\CustomValueResolver\bin\Debug\netcoreapp3.0\CustomValueResolver.pdb
+C:\Users\Usuario\Desktop\AutoMapper\CustomValueResolver\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\Usuario\Desktop\AutoMapper\CustomValueResolver\obj\Debug\netcoreapp3.0\CustomValueResolver.csproj.CopyComplete
+C:\Users\Usuario\Desktop\AutoMapper\CustomValueResolver\obj\Debug\netcoreapp3.0\CustomValueResolver.dll
+C:\Users\Usuario\Desktop\AutoMapper\CustomValueResolver\obj\Debug\netcoreapp3.0\CustomValueResolver.pdb

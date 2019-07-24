@@ -1,0 +1,14 @@
+c:\Users\Usuario\Desktop\AutoMapper\ValueConvert\obj\Debug\netcoreapp3.0\ValueConvert.csprojAssemblyReference.cache
+c:\Users\Usuario\Desktop\AutoMapper\ValueConvert\obj\Debug\netcoreapp3.0\ValueConvert.csproj.CoreCompileInputs.cache
+c:\Users\Usuario\Desktop\AutoMapper\ValueConvert\obj\Debug\netcoreapp3.0\ValueConvert.AssemblyInfoInputs.cache
+c:\Users\Usuario\Desktop\AutoMapper\ValueConvert\obj\Debug\netcoreapp3.0\ValueConvert.AssemblyInfo.cs
+c:\Users\Usuario\Desktop\AutoMapper\ValueConvert\bin\Debug\netcoreapp3.0\ValueConvert.exe
+C:\Users\Usuario\Desktop\AutoMapper\ValueConvert\bin\Debug\netcoreapp3.0\ValueConvert.deps.json
+C:\Users\Usuario\Desktop\AutoMapper\ValueConvert\bin\Debug\netcoreapp3.0\ValueConvert.runtimeconfig.json
+C:\Users\Usuario\Desktop\AutoMapper\ValueConvert\bin\Debug\netcoreapp3.0\ValueConvert.runtimeconfig.dev.json
+c:\Users\Usuario\Desktop\AutoMapper\ValueConvert\bin\Debug\netcoreapp3.0\ValueConvert.dll
+c:\Users\Usuario\Desktop\AutoMapper\ValueConvert\bin\Debug\netcoreapp3.0\ValueConvert.pdb
+c:\Users\Usuario\Desktop\AutoMapper\ValueConvert\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\Usuario\Desktop\AutoMapper\ValueConvert\obj\Debug\netcoreapp3.0\ValueConvert.csproj.CopyComplete
+c:\Users\Usuario\Desktop\AutoMapper\ValueConvert\obj\Debug\netcoreapp3.0\ValueConvert.dll
+c:\Users\Usuario\Desktop\AutoMapper\ValueConvert\obj\Debug\netcoreapp3.0\ValueConvert.pdb

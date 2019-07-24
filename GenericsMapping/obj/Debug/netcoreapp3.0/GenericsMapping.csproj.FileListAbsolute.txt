@@ -1,0 +1,14 @@
+c:\Users\Usuario\Desktop\AutoMapper\GenericsMapping\obj\Debug\netcoreapp3.0\GenericsMapping.csprojAssemblyReference.cache
+c:\Users\Usuario\Desktop\AutoMapper\GenericsMapping\obj\Debug\netcoreapp3.0\GenericsMapping.csproj.CoreCompileInputs.cache
+c:\Users\Usuario\Desktop\AutoMapper\GenericsMapping\obj\Debug\netcoreapp3.0\GenericsMapping.AssemblyInfoInputs.cache
+c:\Users\Usuario\Desktop\AutoMapper\GenericsMapping\obj\Debug\netcoreapp3.0\GenericsMapping.AssemblyInfo.cs
+c:\Users\Usuario\Desktop\AutoMapper\GenericsMapping\bin\Debug\netcoreapp3.0\GenericsMapping.exe
+C:\Users\Usuario\Desktop\AutoMapper\GenericsMapping\bin\Debug\netcoreapp3.0\GenericsMapping.deps.json
+C:\Users\Usuario\Desktop\AutoMapper\GenericsMapping\bin\Debug\netcoreapp3.0\GenericsMapping.runtimeconfig.json
+C:\Users\Usuario\Desktop\AutoMapper\GenericsMapping\bin\Debug\netcoreapp3.0\GenericsMapping.runtimeconfig.dev.json
+c:\Users\Usuario\Desktop\AutoMapper\GenericsMapping\bin\Debug\netcoreapp3.0\GenericsMapping.dll
+c:\Users\Usuario\Desktop\AutoMapper\GenericsMapping\bin\Debug\netcoreapp3.0\GenericsMapping.pdb
+c:\Users\Usuario\Desktop\AutoMapper\GenericsMapping\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\Usuario\Desktop\AutoMapper\GenericsMapping\obj\Debug\netcoreapp3.0\GenericsMapping.csproj.CopyComplete
+c:\Users\Usuario\Desktop\AutoMapper\GenericsMapping\obj\Debug\netcoreapp3.0\GenericsMapping.dll
+c:\Users\Usuario\Desktop\AutoMapper\GenericsMapping\obj\Debug\netcoreapp3.0\GenericsMapping.pdb

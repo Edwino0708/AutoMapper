@@ -1,0 +1,14 @@
+c:\Users\Usuario\Desktop\AutoMapper\ListArray\bin\Debug\netcoreapp3.0\ListArray.exe
+C:\Users\Usuario\Desktop\AutoMapper\ListArray\bin\Debug\netcoreapp3.0\ListArray.deps.json
+C:\Users\Usuario\Desktop\AutoMapper\ListArray\bin\Debug\netcoreapp3.0\ListArray.runtimeconfig.json
+C:\Users\Usuario\Desktop\AutoMapper\ListArray\bin\Debug\netcoreapp3.0\ListArray.runtimeconfig.dev.json
+c:\Users\Usuario\Desktop\AutoMapper\ListArray\bin\Debug\netcoreapp3.0\ListArray.dll
+c:\Users\Usuario\Desktop\AutoMapper\ListArray\bin\Debug\netcoreapp3.0\ListArray.pdb
+c:\Users\Usuario\Desktop\AutoMapper\ListArray\bin\Debug\netcoreapp3.0\AutoMapper.dll
+c:\Users\Usuario\Desktop\AutoMapper\ListArray\obj\Debug\netcoreapp3.0\ListArray.csprojAssemblyReference.cache
+c:\Users\Usuario\Desktop\AutoMapper\ListArray\obj\Debug\netcoreapp3.0\ListArray.csproj.CoreCompileInputs.cache
+c:\Users\Usuario\Desktop\AutoMapper\ListArray\obj\Debug\netcoreapp3.0\ListArray.AssemblyInfoInputs.cache
+c:\Users\Usuario\Desktop\AutoMapper\ListArray\obj\Debug\netcoreapp3.0\ListArray.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AutoMapper\ListArray\obj\Debug\netcoreapp3.0\ListArray.csproj.CopyComplete
+c:\Users\Usuario\Desktop\AutoMapper\ListArray\obj\Debug\netcoreapp3.0\ListArray.dll
+c:\Users\Usuario\Desktop\AutoMapper\ListArray\obj\Debug\netcoreapp3.0\ListArray.pdb

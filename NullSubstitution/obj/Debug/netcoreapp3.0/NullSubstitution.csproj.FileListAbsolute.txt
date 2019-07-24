@@ -1,0 +1,14 @@
+c:\Users\Usuario\Desktop\AutoMapper\NullSubstitution\bin\Debug\netcoreapp3.0\NullSubstitution.exe
+C:\Users\Usuario\Desktop\AutoMapper\NullSubstitution\bin\Debug\netcoreapp3.0\NullSubstitution.deps.json
+C:\Users\Usuario\Desktop\AutoMapper\NullSubstitution\bin\Debug\netcoreapp3.0\NullSubstitution.runtimeconfig.json
+C:\Users\Usuario\Desktop\AutoMapper\NullSubstitution\bin\Debug\netcoreapp3.0\NullSubstitution.runtimeconfig.dev.json
+c:\Users\Usuario\Desktop\AutoMapper\NullSubstitution\bin\Debug\netcoreapp3.0\NullSubstitution.dll
+c:\Users\Usuario\Desktop\AutoMapper\NullSubstitution\bin\Debug\netcoreapp3.0\NullSubstitution.pdb
+c:\Users\Usuario\Desktop\AutoMapper\NullSubstitution\bin\Debug\netcoreapp3.0\AutoMapper.dll
+c:\Users\Usuario\Desktop\AutoMapper\NullSubstitution\obj\Debug\netcoreapp3.0\NullSubstitution.csprojAssemblyReference.cache
+c:\Users\Usuario\Desktop\AutoMapper\NullSubstitution\obj\Debug\netcoreapp3.0\NullSubstitution.csproj.CoreCompileInputs.cache
+c:\Users\Usuario\Desktop\AutoMapper\NullSubstitution\obj\Debug\netcoreapp3.0\NullSubstitution.AssemblyInfoInputs.cache
+c:\Users\Usuario\Desktop\AutoMapper\NullSubstitution\obj\Debug\netcoreapp3.0\NullSubstitution.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AutoMapper\NullSubstitution\obj\Debug\netcoreapp3.0\NullSubstitution.csproj.CopyComplete
+c:\Users\Usuario\Desktop\AutoMapper\NullSubstitution\obj\Debug\netcoreapp3.0\NullSubstitution.dll
+c:\Users\Usuario\Desktop\AutoMapper\NullSubstitution\obj\Debug\netcoreapp3.0\NullSubstitution.pdb

@@ -1,0 +1,14 @@
+c:\Users\Usuario\Desktop\AutoMapper\BeforeAndAfter\bin\Debug\netcoreapp3.0\BeforeAndAfter.exe
+C:\Users\Usuario\Desktop\AutoMapper\BeforeAndAfter\bin\Debug\netcoreapp3.0\BeforeAndAfter.deps.json
+C:\Users\Usuario\Desktop\AutoMapper\BeforeAndAfter\bin\Debug\netcoreapp3.0\BeforeAndAfter.runtimeconfig.json
+C:\Users\Usuario\Desktop\AutoMapper\BeforeAndAfter\bin\Debug\netcoreapp3.0\BeforeAndAfter.runtimeconfig.dev.json
+c:\Users\Usuario\Desktop\AutoMapper\BeforeAndAfter\bin\Debug\netcoreapp3.0\BeforeAndAfter.dll
+c:\Users\Usuario\Desktop\AutoMapper\BeforeAndAfter\bin\Debug\netcoreapp3.0\BeforeAndAfter.pdb
+c:\Users\Usuario\Desktop\AutoMapper\BeforeAndAfter\bin\Debug\netcoreapp3.0\AutoMapper.dll
+c:\Users\Usuario\Desktop\AutoMapper\BeforeAndAfter\obj\Debug\netcoreapp3.0\BeforeAndAfter.csprojAssemblyReference.cache
+c:\Users\Usuario\Desktop\AutoMapper\BeforeAndAfter\obj\Debug\netcoreapp3.0\BeforeAndAfter.csproj.CoreCompileInputs.cache
+c:\Users\Usuario\Desktop\AutoMapper\BeforeAndAfter\obj\Debug\netcoreapp3.0\BeforeAndAfter.AssemblyInfoInputs.cache
+c:\Users\Usuario\Desktop\AutoMapper\BeforeAndAfter\obj\Debug\netcoreapp3.0\BeforeAndAfter.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AutoMapper\BeforeAndAfter\obj\Debug\netcoreapp3.0\BeforeAndAfter.csproj.CopyComplete
+c:\Users\Usuario\Desktop\AutoMapper\BeforeAndAfter\obj\Debug\netcoreapp3.0\BeforeAndAfter.dll
+c:\Users\Usuario\Desktop\AutoMapper\BeforeAndAfter\obj\Debug\netcoreapp3.0\BeforeAndAfter.pdb
